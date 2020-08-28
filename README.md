@@ -7,11 +7,6 @@ I've been a software development student at Trybe since March 2020.
 
 :computer: HTML  |  CSS && Styled Components | Javascript | Unit Tesing - Jest and React Testing Library | React JS - Redux and Hooks
 
-### My Values
-
-* Seeking new opportunities for development and growth keeps me consistently challenged.
-* Empathy and resilience are very important values to me.
-
 ### About Me
 
 :airplane: I love traveling | :rocket: I love teach and learn :books: | I like to watch :movie_camera: documentaries, :tv: series and :notes: hear music
