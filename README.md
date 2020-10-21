@@ -19,6 +19,10 @@ I've been a software development student at Trybe since March 2020.
   <img src="sql.png" height="28px" />  
 </p>
 
+<img alt="GIF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviannymaciel&layout=compact&theme=radical"
+  height="150px" width="300px" />
+
 ### About Me
 
 :airplane: I love traveling | :rocket: I love teach and learn :books: | I like to watch :movie_camera: documentaries, :tv: series and :notes: hear music
