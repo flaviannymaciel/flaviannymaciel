@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
-**My name is Flavianny Maciel Mussi from Brazil!**
-I've been a software development student at Trybe since March 2020.
+**I'm Flavianny Maciel Mussi, a Mechanical Engineer who's transitioning into Software Development!**
+<p>Front-end developer, studying to become a Full-Stack developer.</p>
 
 ### Technologies:
 
